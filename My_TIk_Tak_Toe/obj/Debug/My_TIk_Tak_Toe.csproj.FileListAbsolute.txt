@@ -1,0 +1,15 @@
+G:\Games\Notepad++\Projects\My_TIk_Tak_Toe\My_TIk_Tak_Toe\bin\Debug\My_TIk_Tak_Toe.exe.config
+G:\Games\Notepad++\Projects\My_TIk_Tak_Toe\My_TIk_Tak_Toe\bin\Debug\My_TIk_Tak_Toe.exe
+G:\Games\Notepad++\Projects\My_TIk_Tak_Toe\My_TIk_Tak_Toe\bin\Debug\My_TIk_Tak_Toe.pdb
+G:\Games\Notepad++\Projects\My_TIk_Tak_Toe\My_TIk_Tak_Toe\obj\Debug\My_TIk_Tak_Toe.csproj.AssemblyReference.cache
+G:\Games\Notepad++\Projects\My_TIk_Tak_Toe\My_TIk_Tak_Toe\obj\Debug\MainWindow.g.cs
+G:\Games\Notepad++\Projects\My_TIk_Tak_Toe\My_TIk_Tak_Toe\obj\Debug\App.g.cs
+G:\Games\Notepad++\Projects\My_TIk_Tak_Toe\My_TIk_Tak_Toe\obj\Debug\My_TIk_Tak_Toe_MarkupCompile.cache
+G:\Games\Notepad++\Projects\My_TIk_Tak_Toe\My_TIk_Tak_Toe\obj\Debug\My_TIk_Tak_Toe_MarkupCompile.lref
+G:\Games\Notepad++\Projects\My_TIk_Tak_Toe\My_TIk_Tak_Toe\obj\Debug\MainWindow.baml
+G:\Games\Notepad++\Projects\My_TIk_Tak_Toe\My_TIk_Tak_Toe\obj\Debug\My_TIk_Tak_Toe.g.resources
+G:\Games\Notepad++\Projects\My_TIk_Tak_Toe\My_TIk_Tak_Toe\obj\Debug\My_TIk_Tak_Toe.Properties.Resources.resources
+G:\Games\Notepad++\Projects\My_TIk_Tak_Toe\My_TIk_Tak_Toe\obj\Debug\My_TIk_Tak_Toe.csproj.GenerateResource.cache
+G:\Games\Notepad++\Projects\My_TIk_Tak_Toe\My_TIk_Tak_Toe\obj\Debug\My_TIk_Tak_Toe.csproj.CoreCompileInputs.cache
+G:\Games\Notepad++\Projects\My_TIk_Tak_Toe\My_TIk_Tak_Toe\obj\Debug\My_TIk_Tak_Toe.exe
+G:\Games\Notepad++\Projects\My_TIk_Tak_Toe\My_TIk_Tak_Toe\obj\Debug\My_TIk_Tak_Toe.pdb
